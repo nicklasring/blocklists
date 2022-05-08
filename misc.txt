@@ -19,27 +19,27 @@ ff02::3 ip6-allhosts
 # Custom host records are listed here.
 # End of custom host records.
 
-adservice.google.com
-platform.iteratehq.com
-pp.lp4.io
-collector.schibsted.io
-brandmetrics.com
-acdn.adnxs.com
-aftonbladet.se
-analytics.codigo.se
-pp.lp4.io
-cl-eu2.k5a.io
-r.existenz.se
-adx.adform.net
-ib.adnxs.com
-dn.se
-fastlane.rubiconproject.com
-s.ntv.io
-app.readpeak.com
-twin-iq.kickfire.com
-scorecardresearch.com
-googletagservices.com
-ax.idg.se
-permutive.com
-google-analytics.com
-nyheter24.se
+0.0.0.0 adservice.google.com
+0.0.0.0 platform.iteratehq.com
+0.0.0.0 pp.lp4.io
+0.0.0.0 collector.schibsted.io
+0.0.0.0 brandmetrics.com
+0.0.0.0 acdn.adnxs.com
+0.0.0.0 aftonbladet.se
+0.0.0.0 analytics.codigo.se
+0.0.0.0 pp.lp4.io
+0.0.0.0 cl-eu2.k5a.io
+0.0.0.0 r.existenz.se
+0.0.0.0 adx.adform.net
+0.0.0.0 ib.adnxs.com
+0.0.0.0 dn.se
+0.0.0.0 fastlane.rubiconproject.com
+0.0.0.0 s.ntv.io
+0.0.0.0 app.readpeak.com
+0.0.0.0 twin-iq.kickfire.com
+0.0.0.0 scorecardresearch.com
+0.0.0.0 googletagservices.com
+0.0.0.0 ax.idg.se
+0.0.0.0 permutive.com
+0.0.0.0 google-analytics.com
+0.0.0.0 nyheter24.se
