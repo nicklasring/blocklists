@@ -26,6 +26,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 brandmetrics.com
 0.0.0.0 acdn.adnxs.com
 0.0.0.0 aftonbladet.se
+0.0.0.0 www.aftonbladet.se
 0.0.0.0 analytics.codigo.se
 0.0.0.0 pp.lp4.io
 0.0.0.0 cl-eu2.k5a.io
@@ -33,6 +34,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adx.adform.net
 0.0.0.0 ib.adnxs.com
 0.0.0.0 dn.se
+0.0.0.0 www.dn.se
 0.0.0.0 fastlane.rubiconproject.com
 0.0.0.0 s.ntv.io
 0.0.0.0 app.readpeak.com
@@ -43,3 +45,4 @@ ff02::3 ip6-allhosts
 0.0.0.0 permutive.com
 0.0.0.0 google-analytics.com
 0.0.0.0 nyheter24.se
+0.0.0.0 www.nyheter24.se
